@@ -107,13 +107,22 @@
        </layout>
       </widget>
      </item>
-     <item alignment="Qt::AlignHCenter|Qt::AlignBottom">
+     <item alignment="Qt::AlignHCenter|Qt::AlignVCenter">
       <widget class="QLabel" name="label_7">
        <property name="text">
         <string/>
        </property>
        <property name="pixmap">
-        <pixmap resource="../bitcoin.qrc">:/icons/808_testnet</pixmap>
+        <pixmap resource="../bitcoin.qrc">:/icons/808_tooltip</pixmap>
+       </property>
+       <property name="scaledContents">
+        <bool>false</bool>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+       <property name="margin">
+        <number>1</number>
        </property>
       </widget>
      </item>
