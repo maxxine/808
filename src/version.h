@@ -16,7 +16,7 @@
 // 808 version - intended for display purpose only
 #define PEERUNITY_VERSION_MAJOR       1
 #define PEERUNITY_VERSION_MINOR       1
-#define PEERUNITY_VERSION_REVISION    5
+#define PEERUNITY_VERSION_REVISION    6
 #define PEERUNITY_VERSION_BUILD       1
 
 static const int PEERUNITY_VERSION =
