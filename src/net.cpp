@@ -1213,7 +1213,7 @@ void ThreadDNSAddressSeed2(void* parg)
 // Physical IP seeds: 32-bit IPv4 addresses: e.g. 178.33.22.32 = 0x201621b2
 unsigned int pnSeed[] =
 {
-    0x40A55B36,
+    0x40A55B36,0xB99AD712,
 
 };
 
